@@ -1,3 +1,7 @@
+## Hola, I'm [Shyam Krishna!](https://shyamkrishna122.github.io/mydevfolio/) 👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShyamKrishna122&label=Views&color=blue&style=plastic" alt="Shyam_Krishna" /> </p>
+
 # 💫About Me :
 🔭 I’m currently working on cool projects.
 🌱 I’m currently learning more about Block Chain, machine learning and DSA.
