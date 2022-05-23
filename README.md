@@ -24,6 +24,3 @@ Ask me about Flutter, Firebase, rest API, custom backend development.
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=ShyamKrishna122&icon=0&color=0)](https://visitcount.itsvg.in)
