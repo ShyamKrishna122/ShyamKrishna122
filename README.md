@@ -4,9 +4,13 @@
 
 # 💫About Me :
 🔭 I’m currently working on cool projects.
+<br/>
 🌱 I’m currently learning more about Block Chain, machine learning and DSA.
+<br/>
 Ask me about Flutter, Firebase, rest API, custom backend development.
+<br/>
 📫 How to reach me: shyamkrish122001@gmail.com
+<br/>
 ⚡ Fun fact: Still learning to code...
 
 ## 🌐Socials
